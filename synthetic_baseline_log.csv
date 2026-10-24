@@ -1,0 +1,7 @@
+hour,susceptible_start,infected_start,removed_start,new_infections,new_removals
+0,40000,2000,0,632,0
+1,39368,2632,0,835,0
+2,38533,3467,0,1125,0
+3,37408,4592,0,1473,0
+4,35935,6065,0,1793,0
+5,34142,7858,0,2259,0
